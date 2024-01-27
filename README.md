@@ -9,8 +9,8 @@ This is a simple Java-based implementation of the classic Brick Breaker Game. Th
 ## Getting Started
 
 1. Ensure you have Java installed on your system.
-2. Clone this repository: `git clone https://github.com/your-username/BrickBreakerGame.git`
-3. Navigate to the `BrickBreakerGame` folder: `cd BrickBreakerGame`
+2. Clone this repository: `git clone https://github.com/rodeso/me.yabbg`
+3. Navigate to the `me.yabbg` folder`
 4. Compile and run the game: `javac src/BrickBreaker.java && java src.BrickBreaker`
 
 ## Controls
